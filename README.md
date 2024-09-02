@@ -1,2 +1,2 @@
-# Git Assignment - <nicolexyu>
+# Git Assignment - nicolexyu
 
